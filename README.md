@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm João Victor</h1>
-<h3>A passionate frontend developer from Brazil</h3>
+<h3>A passionate software developer from Brazil</h3>
 
 - 🔭 I’m currently working on [a Notion clone](https://github.com/joao-alvar/notion-clone)
 
