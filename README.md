@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sendtype](https://github.com/joao-alvar/sendtype)
 
-- 👨‍💻 I’m currently learning **C#**
+- 👨‍💻 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **JavaScript/TypeScript/Node.js projects**
 
