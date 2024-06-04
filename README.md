@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently learning **Go**
 
-- 👯 I’m looking to collaborate on **JavaScript/TypeScript/Node.js projects**
+- 👯 I’m looking to collaborate on **JavaScript/TypeScript/Node.js/GO projects**
 
 - 💬 Ask me about **React, JavaScript, Frontend Development**
   
