@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm João Victor</h1>
-<h3>A passionate software developer from Brazil</h3>
+I'm João, a software engineer specialized in the MERN stack, passionate about technology and creating useful and desirable products that impact and improve people's lives.
 
-## 💻 About me:
+## ⚡ About me:
 ```ex
 public class jvalvarenga {
     public static void main(String[] args) {
@@ -34,7 +34,7 @@ public class jvalvarenga {
   
 
 
-## 🌐 Socials:
+## 🌎 Socials:
 [![Email](https://img.shields.io/badge/Email-000000.svg?logo=About.me&logoColor=white)](mailto:victor.alvar@tutanota.com) [![X (formerly Twitter)](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/victorsalvar) 
 
 ## 💻 Tech Stack:
