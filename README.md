@@ -2,7 +2,7 @@
 <h3>A passionate software developer from Brazil</h3>
 
 ```ex
-public class alvarenganx {
+public class jvalvarenga {
     public static void main(String[] args) {
         Map<String, Object> joao = Map.of(
             "name", "João Victor Alvarenga",
