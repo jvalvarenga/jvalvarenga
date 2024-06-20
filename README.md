@@ -28,7 +28,7 @@ public class jvalvarenga {
 
 - 👨‍💻 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **JavaScript/TypeScript/Node.js/Java projects**
+- 👯 I’m looking to collaborate on **JavaScript/TypeScript/Node.js/Java** projects
 
 - 💬 Ask me about **React, JavaScript, Frontend Development**
   
