@@ -34,7 +34,7 @@ public class jvalvarenga {
   
 
 
-## 🌎 Socials:
+## 🌎 Let's Connect:
 [![Email](https://img.shields.io/badge/Email-000000.svg?logo=About.me&logoColor=white)](mailto:victor.alvar@tutanota.com) [![X (formerly Twitter)](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/victorsalvar) 
 
 ## 💻 Tech Stack:
