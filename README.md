@@ -1,11 +1,35 @@
 <h1>Hi 👋, I'm João Victor</h1>
 <h3>A passionate software developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Sendtype](https://github.com/joao-alvar/sendtype)
+```ex
+public class alvarenganx {
+    public static void main(String[] args) {
+        Map<String, Object> joao = Map.of(
+            "name", "João Victor Alvarenga",
+            "aka", "JV"
+            "location", Map.of(
+                "country", "Brazil"
+            ),
+            "current_work", Map.of(
+                "role", "Software Engineer"
+            ),
+            "languages", List.of("JavaScript", "TypeScript", "Java", "C#"),
+            "techs", List.of("Elasticsearch", "Node.js", "MongoDB", "MySQL", "Docker")
+        );
 
-- 👨‍💻 I’m currently learning **Go**
+        System.out.println(joao);
+    }
+}
 
-- 👯 I’m looking to collaborate on **JavaScript/TypeScript/Node.js/GO projects**
+end
+```
+
+
+- 🔭 I’m currently working on [ChatME](https://github.com/joao-alvar/chatme)
+
+- 👨‍💻 I’m currently learning **Java**
+
+- 👯 I’m looking to collaborate on **JavaScript/TypeScript/Node.js/Java projects**
 
 - 💬 Ask me about **React, JavaScript, Frontend Development**
   
