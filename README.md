@@ -1,6 +1,7 @@
 <h1>Hi 👋, I'm João Victor</h1>
 <h3>A passionate software developer from Brazil</h3>
 
+## 💻 About me:
 ```ex
 public class jvalvarenga {
     public static void main(String[] args) {
@@ -22,7 +23,7 @@ public class jvalvarenga {
 }
 ```
 
-
+## ▶ What I'm working on:
 - 🔭 I’m currently working on [ChatME](https://github.com/jvalvarenga/chatme)
 
 - 👨‍💻 I’m currently learning **Java**
