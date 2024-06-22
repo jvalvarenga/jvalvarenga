@@ -8,6 +8,7 @@ public class jvalvarenga {
         Map<String, Object> joao = Map.of(
             "name", "João Victor Alvarenga",
             "aka", "JV"
+            ),
             "location", Map.of(
                 "country", "Brazil"
             ),
