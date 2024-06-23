@@ -2,7 +2,7 @@
 I'm João, a software engineer specialized in the MERN stack, passionate about technology and creating useful and desirable products that impact and improve people's lives.
 
 ## ⚡ About Me:
-```ex
+```java
 public class jvalvarenga {
     public static void main(String[] args) {
         Map<String, Object> joao = Map.of(
