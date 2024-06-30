@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm João Victor</h1>
+<h1>Hi, I'm João Victor</h1>
 I'm João, a software engineer specialized in the MERN stack, passionate about technology and creating useful and desirable products that impact and improve people's lives.
 
 ## ⚡ About Me:
