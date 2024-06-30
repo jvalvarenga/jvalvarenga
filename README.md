@@ -23,17 +23,6 @@ if __name__ == "__main__":
     main()
 ```
 
-## ▶ What I'm Working On:
-- 🔭 I’m currently working on [ChatME](https://github.com/jvalvarenga/chatme)
-
-- 👨‍💻 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on **JavaScript/TypeScript/Node.js/Java** projects
-
-- 💬 Ask me about **React, JavaScript, Frontend Development**
-  
-
-
 ## 🌎 Let's Connect:
 [![Email](https://img.shields.io/badge/Email-000000.svg?logo=About.me&logoColor=white)](mailto:victor.alvar@tutanota.com) [![X (formerly Twitter)](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/victorsalvar) 
 
