@@ -2,26 +2,25 @@
 I'm João, a software engineer specialized in the MERN stack, passionate about technology and creating useful and desirable products that impact and improve people's lives.
 
 ## ⚡ About Me:
-```java
-public class jvalvarenga {
-    public static void main(String[] args) {
-        Map<String, Object> joao = Map.of(
-            "name", "João Victor Alvarenga",
-            "aka", "JV"
-            ),
-            "location", Map.of(
-                "country", "Brazil"
-            ),
-            "current_work", Map.of(
-                "role", "Software Engineer"
-            ),
-            "languages", List.of("JavaScript", "TypeScript", "Python", "Java", "C#"),
-            "techs", List.of("Elasticsearch", "Node.js", "MongoDB", "MySQL", "Docker")
-        );
-
-        System.out.println(joao);
+```py
+def main():
+    joao = {
+        "name": "João Victor Alvarenga",
+        "aka": "JV",
+        "location": {
+            "country": "Brazil"
+        },
+        "current_work": {
+            "role": "Software Engineer"
+        },
+        "languages": ["JavaScript", "TypeScript", "Python", "Java", "C#"],
+        "techs": ["Elasticsearch", "Node.js", "MongoDB", "MySQL", "Docker"]
     }
-}
+
+    print(joao)
+
+if __name__ == "__main__":
+    main()
 ```
 
 ## ▶ What I'm Working On:
