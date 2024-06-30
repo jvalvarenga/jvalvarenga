@@ -15,7 +15,7 @@ public class jvalvarenga {
             "current_work", Map.of(
                 "role", "Software Engineer"
             ),
-            "languages", List.of("JavaScript", "TypeScript", "Java", "C#"),
+            "languages", List.of("JavaScript", "TypeScript", "Python", "Java", "C#"),
             "techs", List.of("Elasticsearch", "Node.js", "MongoDB", "MySQL", "Docker")
         );
 
