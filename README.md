@@ -11,8 +11,8 @@ def main():
             "country": "Brazil"
         },
         "current_work": {
-            "role": "Software Engineer",
             "company": "Accenture"
+            "role": "Software Engineer",
         },
         "languages": ["JavaScript", "TypeScript", "Java", "C#"],
         "techs": ["AWS", "Node.js", "MongoDB", "MySQL", "Docker"]
