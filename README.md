@@ -11,10 +11,11 @@ def main():
             "country": "Brazil"
         },
         "current_work": {
-            "role": "Software Engineer"
+            "role": "Software Engineer",
+            "company": "Accenture"
         },
-        "languages": ["JavaScript", "TypeScript", "Python", "Java", "C#"],
-        "techs": ["Elasticsearch", "Node.js", "MongoDB", "MySQL", "Docker"]
+        "languages": ["JavaScript", "TypeScript", "Java", "C#"],
+        "techs": ["AWS", "Node.js", "MongoDB", "MySQL", "Docker"]
     }
 
     print(joao)
